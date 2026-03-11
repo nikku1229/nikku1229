@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitish Sharma</h1>
 <h3 align="center">A passionate Web developer focused on building Web apps and web pages. I love solving problems and collaborating on innovative projects. I’m currently working as a web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikku1229&label=Profile%20views&color=0e75b6&style=flat" alt="nikku1229" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikku1229" alt="nikku1229" /></a> </p>
 
 - 🌱 I’m currently learning **Mern stack and Devops**
 
-- 👨‍💻 All of my projects are available at [LikedIn](https://www.linkedin.com/in/nitish-sharma-648a581b2)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/nikku1229) and [LikedIn](https://www.linkedin.com/in/nitish-sharma-648a581b2)
 
 - 💬 Ask me about **Web development and expertise in react.js**
 
