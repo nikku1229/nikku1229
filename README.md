@@ -193,10 +193,10 @@ const nitish = {
 ## 🎯 Current Focus
 
 ```text
-💼 Leading Frontend Sprints    █████████░░░░░░   75%
-🤖 AI Integration Projects     ████░░░░░░░░░░░   65%
-📚 DSA & Competitive Coding    ██████░░░░░░░░░   55%
-🌍 Open Source Contributions   █░░░░░░░░░░░░░░   0%
+💼 Leading Frontend Sprints    █████████░░░░░░   65%
+🤖 AI Integration Projects     ████░░░░░░░░░░░   40%
+📚 DSA & Competitive Coding    ██████░░░░░░░░░   45%
+🌍 Open Source Contributions   █░░░░░░░░░░░░░░   10%
 🧪 Exploring New Tech          █████████░░░░░░   60%
 ```
 
