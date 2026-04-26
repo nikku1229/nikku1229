@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nitish+Sharma+👋;Full+Stack+Web+Developer+💻;MERN+Stack+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=f4f5f6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nitish+Sharma+👋;Full+Stack+Web+Developer+💻;MERN+Stack+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,9 +22,6 @@ const nitish = {
   role:        "Full Stack Web Developer",
   experience:  "2+ years",
   stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
-  ai:          ["OpenAI API", "Google Gemini API"],
-  currentWork: "Adaan Digital Solutions — Lead Frontend Developer",
-  mentored:    "50+ students in Web Development",
   competitive: ["HackerRank", "Codeforces"],
   passion:     "Building intelligent, scalable web products",
   funFact:     "Curiosity is the best skill you can have 🚀"
@@ -127,7 +124,7 @@ const nitish = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikku1229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=nikku1229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -148,9 +145,9 @@ const nitish = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -196,10 +193,10 @@ const nitish = {
 ## 🎯 Current Focus
 
 ```text
-💼 Leading Frontend Sprints    ████████████░░░   75%
-🤖 AI Integration Projects     ██████████░░░░░   65%
-📚 DSA & Competitive Coding    ████████░░░░░░░   55%
-🌍 Open Source Contributions   ██████░░░░░░░░░   40%
+💼 Leading Frontend Sprints    █████████░░░░░░   75%
+🤖 AI Integration Projects     ████░░░░░░░░░░░   65%
+📚 DSA & Competitive Coding    ██████░░░░░░░░░   55%
+🌍 Open Source Contributions   █░░░░░░░░░░░░░░   0%
 🧪 Exploring New Tech          █████████░░░░░░   60%
 ```
 
